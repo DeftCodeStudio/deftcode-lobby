@@ -1,6 +1,6 @@
 # Lobby
 
-[![CodeFactor](https://www.codefactor.io/repository/github/DeftCodeStudio/deftcode-lobby/badge/main)](https://www.codefactor.io/repository/github/DeftCodeStudio/deftcode-lobby/overview/main)
+[![CodeFactor](https://www.codefactor.io/repository/github/alpauq/lobby-plugin/badge/main)](https://www.codefactor.io/repository/github/alpauq/lobby-plugin/overview/main)
 
 Plugin wprowadza bardzo prosty system lobby na serwerze minecraft. Kompatybilny z wersją 1.8.8
 ## Instalacja
